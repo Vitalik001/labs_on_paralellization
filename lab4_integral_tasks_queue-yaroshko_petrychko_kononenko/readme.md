@@ -75,4 +75,4 @@ It can be used for debugging or saving data for future analysis.
 
 ### Results
 
-[Here is a google drive link for a pdf with results and analysis](https://docs.google.com/document/d/1BMwZjNcKVpPiB1ad1apyNIj-mXTDbkEVI367CRfTI-E/edit)
+[Here is a google drive link for a pdf with results and analysis](https://docs.google.com/document/d/1BMwZjNcKVpPiB1ad1apyNIj-mXTDbkEVI367CRfTI-E/edit?usp=sharing)

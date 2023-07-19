@@ -77,4 +77,4 @@ To record results into .json file, you need to uncomment 154 line of the script.
 
 ### Results
 
-[Google Drive folder with testing data, results and analysis](https://docs.google.com/document/d/1C4JFazk5zlkZJwsxNKpPy-eppkpGdCTvkSS9rYgfCzo/edit)
+[Google Drive folder with testing data, results and analysis](https://docs.google.com/document/d/1C4JFazk5zlkZJwsxNKpPy-eppkpGdCTvkSS9rYgfCzo/edit?usp=sharing)

@@ -62,4 +62,4 @@ To record results into .json file, you need to uncomment 117 line of the script.
 
 ### Results
 
-[Here is a google drive link for a pdf with results and analysis](https://docs.google.com/document/d/1Tgfy0PAq3A47FRr2Eory2vkkFCTYxpEeDWsri8d_iSQ/edit)
+[Here is a google drive link for a pdf with results and analysis](https://docs.google.com/document/d/1Tgfy0PAq3A47FRr2Eory2vkkFCTYxpEeDWsri8d_iSQ/edit?usp=sharing)
