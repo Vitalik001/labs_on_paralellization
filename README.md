@@ -2,7 +2,7 @@
 
 ### Authors
 
-This labs was done by Petrychko Vitalii, Yaroshko Taras and Kononenko Nazar
+This labs were done by Petrychko Vitalii, Yaroshko Taras and Kononenko Nazar
 
 
 ### Reports
